@@ -1,0 +1,7 @@
+2 fruit
+3 dairy yogurt
+1 pets cat_food Iams Lively Senior
+1 meat salmon
+3 bakery kolaches Sausage and Cheese Kolaches
+2 vegetable soup
+1 personal

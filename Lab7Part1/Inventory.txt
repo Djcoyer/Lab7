@@ -1,0 +1,20 @@
+67522 12 vegetable soup 1.25 21 Campbells Vegetable Soup
+8723678 11 vegetable canned_peas 2.35 16 Del Monte Sweet Peas
+4 meat salmon 12.88 3 Alaskan Farmed Salmon
+87833212 9 meat steak 10.99 5 Purveyor Cut Sirloin
+334252 9 meat chicken 5.27 6 Sanderson Farms Whole Chicken
+939393 1 bakery kolaches 1.29 12 Sausage and Cheese Kolaches
+453345 1 bakery bread 3.87 4 Purveyor Artisan Whole Grain Bread
+bakery doughnuts .40 36 Purveyor Cake Doughnuts
+9384844 2 fruit strawberries 4.34 18 Organic Non-GMO Strawberries
+483763 3 fruit mixed_fruit 7.85 8 Frozen Mixed Melon Balls
+23895732 13 dairy yogurt 1.50 12 Dannon Blueberry Yogurt
+382849 dairy milk 2.15 7 Borden Whole Milk
+8723376 13 dairy cheese 4.89 4 Wedge of Havarti
+118744 4 household cleaner 6.99 3 Seventh Generation Lavender Laundry Detergent
+556466 5 household consumables 13.99 11 Bounty Paper Towels 
+7346994 6 pets cat_food 17.99 4 Iams Lively Senior
+8302756 7 pets dog_treat 19.45 3 Rawhide Chewsticks
+8118730 8 personal shampoo 5.33 7 Home Health Everclean
+943521 10 personal 6.78 3 Curling Iron
+663422 10 personal socks 4.05 4 Fuzzy Sleep Socks
